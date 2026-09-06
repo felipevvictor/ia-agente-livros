@@ -1,149 +1,112 @@
-# 🤖 Agente Inteligente com IA Generativa
+# 📚 Agente Inteligente de Análise de Livros com IA Generativa
 
-## Contexto
+Agente conversacional que utiliza **IA Generativa** para analisar, recomendar e responder perguntas sobre livros, combinando um modelo de linguagem (LLM) com uma base de conhecimento própria.
 
-Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots reativos para **agentes inteligentes e proativos**. Neste desafio, você vai idealizar e prototipar um agente financeiro que utiliza IA Generativa para:
-
-- **Antecipar necessidades** ao invés de apenas responder perguntas
-- **Personalizar** sugestões com base no contexto de cada cliente
-- **Cocriar soluções** financeiras de forma consultiva
-- **Garantir segurança** e confiabilidade nas respostas (anti-alucinação)
-
-> [!TIP]
-> Na pasta [`examples/`](./examples/) você encontra referências de implementação para cada etapa deste desafio.
+> Projeto desenvolvido a partir do lab **[dio-lab-bia-do-futuro](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro)**, da Digital Innovation One, adaptado do domínio financeiro original para o domínio de **livros e literatura**.
 
 ---
 
-## O Que Você Deve Entregar
+## 📖 Sobre o projeto
 
-### 1. Documentação do Agente
+Assistentes de IA estão evoluindo de simples chatbots reativos para **agentes inteligentes e proativos**, capazes de:
 
-Defina **o que** seu agente faz e **como** ele funciona:
+- **Antecipar necessidades** do leitor, não apenas responder perguntas
+- **Personalizar** recomendações com base no perfil e no histórico de leitura
+- **Cocriar** experiências literárias de forma consultiva (ex: "quero algo parecido com X, mas mais leve")
+- **Garantir confiabilidade** nas respostas, evitando alucinações sobre autores, sinopses e dados de obras
 
-- **Caso de Uso:** Qual problema financeiro ele resolve? (ex: consultoria de investimentos, planejamento de metas, alertas de gastos)
-- **Persona e Tom de Voz:** Como o agente se comporta e se comunica?
-- **Arquitetura:** Fluxo de dados e integração com a base de conhecimento
-- **Segurança:** Como evitar alucinações e garantir respostas confiáveis?
-
-📄 **Template:** [`docs/01-documentacao-agente.md`](./docs/01-documentacao-agente.md)
+Este repositório documenta e implementa um protótipo desse agente, aplicado a um **acervo de livros**.
 
 ---
 
-### 2. Base de Conhecimento
-
-Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
-
-| Arquivo | Formato | Descrição |
-|---------|---------|-----------|
-| `transacoes.csv` | CSV | Histórico de transações do cliente |
-| `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
-| `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
-| `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
-
-Você pode adaptar ou expandir esses dados conforme seu caso de uso.
-
-📄 **Template:** [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md)
-
----
-
-### 3. Prompts do Agente
-
-Documente os prompts que definem o comportamento do seu agente:
-
-- **System Prompt:** Instruções gerais de comportamento e restrições
-- **Exemplos de Interação:** Cenários de uso com entrada e saída esperada
-- **Tratamento de Edge Cases:** Como o agente lida com situações limite
-
-📄 **Template:** [`docs/03-prompts.md`](./docs/03-prompts.md)
-
----
-
-### 4. Aplicação Funcional
-
-Desenvolva um **protótipo funcional** do seu agente:
-
-- Chatbot interativo (sugestão: Streamlit, Gradio ou similar)
-- Integração com LLM (via API ou modelo local)
-- Conexão com a base de conhecimento
-
-📁 **Pasta:** [`src/`](./src/)
-
----
-
-### 5. Avaliação e Métricas
-
-Descreva como você avalia a qualidade do seu agente:
-
-**Métricas Sugeridas:**
-- Precisão/assertividade das respostas
-- Taxa de respostas seguras (sem alucinações)
-- Coerência com o perfil do cliente
-
-📄 **Template:** [`docs/04-metricas.md`](./docs/04-metricas.md)
-
----
-
-### 6. Pitch
-
-Grave um **pitch de 3 minutos** (estilo elevador) apresentando:
-
-- Qual problema seu agente resolve?
-- Como ele funciona na prática?
-- Por que essa solução é inovadora?
-
-📄 **Template:** [`docs/05-pitch.md`](./docs/05-pitch.md)
-
----
-
-## Ferramentas Sugeridas
-
-Todas as ferramentas abaixo possuem versões gratuitas:
-
-| Categoria | Ferramentas |
-|-----------|-------------|
-| **LLMs** | [ChatGPT](https://chat.openai.com/), [Copilot](https://copilot.microsoft.com/), [Gemini](https://gemini.google.com/), [Claude](https://claude.ai/), [Ollama](https://ollama.ai/) |
-| **Desenvolvimento** | [Streamlit](https://streamlit.io/), [Gradio](https://www.gradio.app/), [Google Colab](https://colab.research.google.com/) |
-| **Orquestração** | [LangChain](https://www.langchain.com/), [LangFlow](https://www.langflow.org/), [CrewAI](https://www.crewai.com/) |
-| **Diagramas** | [Mermaid](https://mermaid.js.org/), [Draw.io](https://app.diagrams.net/), [Excalidraw](https://excalidraw.com/) |
-
----
-
-## Estrutura do Repositório
+## 🗂️ Estrutura do repositório
 
 ```
-📁 lab-agente-financeiro/
+ia-agente-livros/
 │
-├── 📄 README.md
+├── 📄 README.md                  # Este arquivo
 │
-├── 📁 data/                          # Dados mockados para o agente
-│   ├── historico_atendimento.csv     # Histórico de atendimentos (CSV)
-│   ├── perfil_investidor.json        # Perfil do cliente (JSON)
-│   ├── produtos_financeiros.json     # Produtos disponíveis (JSON)
-│   └── transacoes.csv                # Histórico de transações (CSV)
+├── 📁 data/                      # Base de conhecimento (dados de livros, acervo, histórico)
 │
-├── 📁 docs/                          # Documentação do projeto
-│   ├── 01-documentacao-agente.md     # Caso de uso e arquitetura
-│   ├── 02-base-conhecimento.md       # Estratégia de dados
-│   ├── 03-prompts.md                 # Engenharia de prompts
-│   ├── 04-metricas.md                # Avaliação e métricas
-│   └── 05-pitch.md                   # Roteiro do pitch
+├── 📁 docs/                      # Documentação do agente
+│   ├── 01-documentacao-agente.md # Caso de uso, persona e arquitetura
+│   ├── 02-base-conhecimento.md   # Estratégia e estrutura dos dados
+│   ├── 03-prompts.md             # System prompt e exemplos de interação
+│   ├── 04-metricas.md            # Avaliação e métricas de qualidade
+│   └── 05-pitch.md               # Roteiro de apresentação do projeto
 │
-├── 📁 src/                           # Código da aplicação
-│   └── app.py                        # (exemplo de estrutura)
+├── 📁 src/                       # Código-fonte da aplicação (agente + interface)
 │
-├── 📁 assets/                        # Imagens e diagramas
-│   └── ...
-│
-└── 📁 examples/                      # Referências e exemplos
-    └── README.md
+└── 📁 examples/                  # Prints da aplicação rodando
 ```
 
 ---
 
-## Dicas Finais
+## 🧠 Como o agente funciona
 
-1. **Comece pelo prompt:** Um bom system prompt é a base de um agente eficaz
-2. **Use os dados mockados:** Eles garantem consistência e evitam problemas com dados sensíveis
-3. **Foque na segurança:** No setor financeiro, evitar alucinações é crítico
-4. **Teste cenários reais:** Simule perguntas que um cliente faria de verdade
-5. **Seja direto no pitch:** 3 minutos passam rápido, vá ao ponto
+1. **Entrada do usuário** — uma pergunta ou pedido sobre livros (ex: "me indique um livro parecido com Sapiens").
+2. **Consulta à base de conhecimento** — o agente busca informações relevantes em `data/` (acervo, sinopses, categorias, avaliações).
+3. **Geração de resposta com IA** — o LLM combina o contexto recuperado com o *system prompt* definido em `docs/03-prompts.md` para gerar uma resposta personalizada e fundamentada.
+4. **Resposta ao usuário** — via interface de chat (ex: Streamlit/Gradio), evitando respostas genéricas ou alucinadas.
+
+Para detalhes de arquitetura, persona e regras de segurança contra alucinações, veja [`docs/01-documentacao-agente.md`](docs/01-documentacao-agente.md).
+
+---
+
+## 🚀 Como executar localmente
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/felipevvictor/ia-agente-livros.git
+cd ia-agente-livros
+
+# 2. Instalar dependências
+python -m pip install streamlit pandas requests 
+
+# 3. Garantir que o ollama está rodando
+ollama serve
+
+# 4. Rodar a aplicação
+python -m streamlit run ".\src\app.py"
+```
+
+---
+
+## 🛠️ Tecnologias sugeridas
+
+| Categoria           | Ferramentas                                                                 |
+| ------------------- | ---------------------------------------------------------------------------- |
+| **LLMs**            | ChatGPT, Gemini, Claude, Ollama                                               |
+| **Interface**       | Streamlit, Llama                                                             |                                               |
+| **Dados**           | CSV / JSON com acervo de livros, sinopses, avaliações e perfis de leitura     |
+
+---
+
+## 📊 Avaliação
+
+A qualidade das respostas do agente pode ser avaliada por métricas como:
+
+- **Precisão/assertividade** das recomendações e informações sobre obras
+- **Taxa de respostas seguras** (sem invenção de autores, títulos ou dados)
+- **Coerência** com o perfil e as preferências do leitor
+
+Veja detalhes em [`docs/04-metricas.md`](docs/04-metricas.md).
+
+---
+
+## 🤝 Contribuindo
+
+Sugestões, issues e pull requests são bem-vindos. Para mudanças maiores, abra uma *issue* primeiro para discutir o que você gostaria de alterar.
+
+---
+
+## NOTE
+
+Atualmente o projeto está estruturado com o modelo Llama que por sua vez, sendo leve e simples para rodar em qualquer máquina, apresentou um resultado
+que poderia ser melhor. Pode ser alterado para outros modelos como GPT, porém, visando que é necessário ter um hardware compatível para não haver muitos travamentos
+
+---
+
+## 📄 Créditos
+
+Este projeto tem origem no lab **[dio-lab-bia-do-futuro](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro)** da [Digital Innovation One](https://www.dio.me/), adaptado por [@felipevvictor](https://github.com/felipevvictor) para o domínio de análise de livros.
