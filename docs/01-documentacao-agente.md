@@ -37,7 +37,7 @@ simples e direto
 acessível, simples e simpático para que todos possam entender com clareza
 
 ### Exemplos de Linguagem
-- Saudação: "Oii, eu sou a sua melhor amiga do clube do livro. Como posso te ajudar?"
+- Saudação: "Oi, eu sou a sua melhor amiga do clube do livro. Como posso te ajudar?"
 - Confirmação: "Legal! vou dar uma olhadinha e já te retorno"
 - Erro/Limitação: "Desculpa, eu não tenho essa informação no momento, mas posso te ajudar com..."
 
@@ -63,8 +63,8 @@ flowchart TD
 |------------|-----------|
 | Interface | Streamlit |
 | LLM | Ollama |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Base de Conhecimento | TXT e API |
+| Validação | Checagem de alucinações |
 
 ---
 

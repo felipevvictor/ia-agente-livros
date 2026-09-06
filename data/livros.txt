@@ -1,0 +1,104 @@
+Titulo,Autor,Genero,Descricao,Data_Publicacao
+Duna,Frank Herbert,Ficção Científica,"Uma jornada épica no deserto de Arrakis sobre política, religião e sobrevivência.",1965-08-01
+1984,George Orwell,Distopia,Um romance distópico sobre vigilância governamental extrema e controle da verdade.,1949-06-08
+Dom Casmurro,Machado de Assis,Romance,A clássica história de Bentinho e a suspeita eterna sobre a traição de Capitu.,1899-01-01
+O Senhor dos Anéis: A Sociedade do Anel,J.R.R. Tolkien,Fantasia,O início da jornada de Frodo para destruir o Um Anel na Montanha da Perdição.,1954-07-29
+O Pequeno Príncipe,Antoine de Saint-Exupéry,Infantojuvenil,"As reflexões poéticas de um jovem príncipe sobre a vida, o amor e a amizade.",1943-04-06
+Orgulho e Preconceito,Jane Austen,Romance,Os dilemas de Elizabeth Bennet em meio às convenções sociais da Inglaterra do século XIX.,1813-01-28
+O Sol é para Todos,Harper Lee,Drama,O julgamento de um homem negro inocente no Sul dos EUA visto pelos olhos de uma criança.,1960-07-11
+Cem Anos de Solidão,Gabriel García Márquez,Realismo Mágico,A saga da família Buendía na mítica e isolada cidade de Macondo.,1967-06-05
+A Revolução dos Bichos,George Orwell,Sátira Política,Uma fábula política sobre a corrupção do poder após uma revolta animal na fazenda.,1945-08-17
+O Hobbit,J.R.R. Tolkien,Fantasia,A aventura inesperada de Bilbo Bolseiro em busca do tesouro guardado pelo dragão Smaug.,1937-09-21
+Crime e Castigo,Fiódor Dostoiévski,Romance Psicológico,O dilema moral e o tormento psicológico de um estudante após cometer um assassinato.,1866-01-01
+O Alquimista,Paulo Coelho,Ficção,A jornada espiritual de um jovem pastor andaluz em busca de um tesouro nas pirâmides.,1988-01-01
+A Metamorfose,Franz Kafka,Ficção Absurda,A transformação inexplicável de Gregor Samsa em um inseto gigante e suas consequências.,1915-10-01
+Capitães da Areia,Jorge Amado,Romance,A vida de crianças abandonadas nas ruas de Salvador e suas vivências de solidariedade.,1937-01-01
+Vidas Secas,Graciliano Ramos,Romance Regionalista,O drama de uma família de retirantes nordestinos fugindo da seca e da miséria.,1938-01-01
+O Cortiço,Aluísio Azevedo,Naturalismo,Retrato cru da vida e das relações humanas em uma estalagem no Rio de Janeiro do século XIX.,1890-01-01
+Quarto de Despejo,Carolina Maria de Jesus,Autobiografia,O diário comovente de uma catadora de papel vivendo na favela do Canindé em São Paulo.,1960-08-30
+Memórias Póstumas de Brás Cubas,Machado de Assis,Romance,A narrativa irônica e inovadora de um defunto autor sobre sua própria vida.,1881-01-01
+Iracema,José de Alencar,Romance Indianista,A lenda fundadora da tribo tabajara e o romance entre a virgem dos lábios de mel e o guerreiro branco.,1865-01-01
+O Guarani,José de Alencar,Romance Histórico,As aventuras e o amor heroico do índio Peri pela fidalga Cecília na Mata do Paquequer.,1857-01-01
+A Hora da Estrela,Clarice Lispector,Romance,"A trajetória melancólica e inocente de Macabéa, uma nordestina migrante no Rio de Janeiro.",1977-12-01
+Grande Sertão: Veredas,João Guimarães Rosa,Romance,"As memórias do ex-jagunço Riobaldo sobre o pacto com o diabo, o amor e o sertão mineiro.",1956-01-01
+Triste Fim de Policarpo Quaresma,Lima Barreto,Pré-Modernismo,O nacionalismo exagerado e trágico de um funcionário público idealista no Brasil.,1915-01-01
+Macunaíma,Mário de Andrade,Modernismo,As peripécias do herói sem nenhum caráter pela cultura e folclore brasileiros.,1928-07-25
+A Moreninha,Joaquim Manuel de Macedo,Romance,Uma história de amor juvenil baseada em uma aposta romântica na ilha de Paquetá.,1844-01-01
+O Alienista,Machado de Assis,Sátira,A história do médico Simão Bacamarte e sua fundação do manicomio Casa Verde em Itaguaí.,1882-01-01
+Sermões,Padre Antônio Vieira,Oratória,"Peças-chave da literatura barroca com críticas sociais, morais e religiosas.",1679-01-01
+Marília de Dirceu,Tomás Antônio Gonzaga,Poesia,Versos líricos e amorosos marcados pelo arcadismo mineiro e pela inconfidência.,1792-01-01
+O Irmão Pequeno,Herman Koch,Suspense,Uma reflexão ácida sobre segredos de família e escolhas morais difíceis.,2014-11-01
+A Menina que Roubava Livros,Markus Zusak,Drama Histórico,"A história de Liesel narrada pela Morte na Alemanha nazista, tendo os livros como refúgio.",2005-09-01
+Ensaio sobre a Cegueira,José Saramago,Ficção Filosófica,"Um surto de cegueira branca devasta uma cidade, expondo a fragilidade da sociedade.",1995-01-01
+Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,A descoberta do mundo mágico por um menino órfão que vai estudar na Escola de Magia.,1997-06-26
+O Código Da Vinci,Dan Brown,Thriller,Uma caça ao tesouro internacional envolvendo criptografia e segredos seculares da Igreja.,2003-03-18
+Jogos Vorazes,Suzanne Collins,Distopia,Uma competição televisiva mortal onde jovens lutam pela sobrevivência em uma sociedade tirânica.,2008-09-14
+A Culpa é das Estrelas,John Green,Romance Jovem,O romance emocionante entre dois jovens diagnosticados com câncer que se conhecem em um grupo de apoio.,2012-01-10
+Percy Jackson e o Ladrão de Raios,Rick Riordan,Fantasia,Um garoto descobre ser filho de um deus grego e é acusado de roubar o raio de Zeus.,2005-06-28
+Crepúsculo,Stephenie Meyer,Fantasia Romântica,O amor proibido entre uma jovem humana e um vampiro centenário na chuvosa cidade de Forks.,2005-10-05
+O Iluminado,Stephen King,Terror,Um escritor e sua família isolados em um hotel remoto no inverno enfrentam forças malévolas.,1977-01-28
+It: A Coisa,Stephen King,Terror,Um grupo de amigos enfrenta uma entidade metamorfa que aterroriza a cidade de Derry.,1986-09-15
+Drácula,Bram Stoker,Terror Clássico,O clássico epistolar sobre a ameaça do Conde Drácula e sua tentativa de expandir seu império.,1897-05-26
+Frankenstein,Mary Shelley,Ficção Gótica,Um jovem cientista cria vida artificial e lida com as trágicas consequências de sua ambição.,1818-01-01
+O Retrato de Dorian Gray,Oscar Wilde,Ficção Filosófica,Um jovem mantém sua juventude intacta enquanto seu retrato envelhece refletindo seus pecados.,1890-07-01
+Fahrenheit 451,Ray Bradbury,Distopia,Um bombeiro cuja profissão é queimar livros questiona o regime totalitário que os proíbe.,1953-10-19
+Admirável Mundo Novo,Aldous Huxley,Distopia,"Uma sociedade futurista baseada em controle genético, condicionamento e consumo desenfreado.",1932-01-01
+Neuromancer,William Gibson,Cyberpunk,Um hacker renegado é contratado para realizar a última grande invasão cibernética da rede.,1984-07-01
+Fundação,Isaac Asimov,Ficção Científica,A tentativa de preservar o conhecimento humano através de uma fundação em tempos de queda galáctica.,1951-05-01
+"Eu, Robô",Isaac Asimov,Ficção Científica,Histórias sobre as Leis da Robótica e a relação entre humanos e máquinas inteligentes.,1950-12-02
+Guerra dos Mundos,H.G. Wells,Ficção Científica,A violenta invasão da Terra por marcianos altamente tecnológicos e impiedosos.,1898-01-01
+A Máquina do Tempo,H.G. Wells,Ficção Científica,Um cientista viaja ao futuro distante e descobre a bifurcação da raça humana em duas espécies.,1895-01-01
+O Morro dos Ventos Uivantes,Emily Brontë,Romance Gótico,A intensa e destrutiva paixão entre Heathcliff e Catherine Earnest nos picos de Yorkshire.,1847-12-01
+Jane Eyre,Charlotte Brontë,Romance,A jornada de uma órfã independente que se torna governanta e descobre segredos sombrios.,1847-10-16
+Moby Dick,Herman Melville,Aventura,A obsessiva e autodestrutiva caça do capitão Ahab à baleia branca.,1851-10-18
+A Ilha do Tesouro,Robert Louis Stevenson,Aventura,A busca por um tesouro pirata guiada por mapas antigos e jovens corajosos.,1883-11-14
+As Viagens de Gulliver,Jonathan Swift,Sátira,As fantásticas viagens de Lemuel Gulliver a ilhas habitadas por seres minoriais e gigantes.,1726-10-28
+Robinson Crusoé,Daniel Defoe,Aventura,A sobrevivência solitária de um náufrago em uma ilha deserta por mais de vinte anos.,1719-04-25
+A Divina Comédia,Dante Alighieri,Poesia Épica,"A jornada alegórica do autor pelo Inferno, Purgatório e Paraíso guiado por Virgílio.",1320-01-01
+A Ilíada,Homero,Poesia Épica,O relato dos momentos cruciais da Guerra de Troia e a fúria do herói Aquiles.,0750-01-01
+A Odisseia,Homero,Poesia Épica,O longo e perigoso retorno de Odisseu para casa após a queda de Troia.,0725-01-01
+Dom Quixote,Miguel de Cervantes,Romance,As aventuras de um fidalgo delirante que decide reviver os tempos de cavalaria.,1605-01-01
+Hamlet,William Shakespeare,Tragédia,A hesitação e a busca por vingança do príncipe da Dinamarca contra seu tio.,1603-01-01
+Romeu e Julieta,William Shakespeare,Tragédia,O trágico romance entre jovens de duas famílias inimigas em Verona.,1597-01-01
+Macbeth,William Shakespeare,Tragédia,A ambição desenfreada impulsiona um nobre a usurpar o trono escocês.,1606-01-01
+Otelo,William Shakespeare,Tragédia,A manipulação psicológica de um general veneziano alimentada pelo ciúme.,1604-01-01
+Rei Lear,William Shakespeare,Tragédia,A trágica decadência de um monarca que divide seu reino entre suas filhas.,1608-01-01
+O Conde de Monte Cristo,Alexandre Dumas,Aventura,A elaborada vingança de Edmond Dantès após ser injustamente preso por catorze anos.,1844-08-28
+Os Três Mosqueteiros,Alexandre Dumas,Aventura,As façanhas de D'Artagnan e seus amigos mosqueteiros na defesa da coroa francesa.,1844-03-14
+Os Miseráveis,Victor Hugo,Romance Histórico,A redenção do ex-presidiário Jean Valjean na França do século XIX.,1862-04-03
+O Corcunda de Notre-Dame,Victor Hugo,Romance Gótico,"A trágica história de Quasimodo, o sineiro corcunda, e seu amor pela cigana Esmeralda.",1831-03-16
+A Metamorfose,Franz Kafka,Ficção Absurda,A transformação de um homem comum em um inseto e o impacto em sua família.,1915-10-01
+O Velho e o Mar,Ernest Hemingway,Novela,A luta épica de um velho pescador cubano contra um enorme espadarte em alto-mar.,1952-09-01
+O Sol Nasce para Todos,Ernest Hemingway,Romance,A Geração Perdida em viagens entre Paris e a Espanha pós-Primeira Guerra.,1926-10-22
+Por Quem os Sinos Dobram,Ernest Hemingway,Romance Histórico,A atuação de um dinamitista americano nas Brigadas Internacionais durante a Guerra Civil Espanhola.,1940-10-21
+As Vinhas da Ira,John Steinbeck,Romance,A jornada da família Joad em busca de uma vida melhor na Califórnia durante a Grande Depressão.,1939-04-14
+Ratos e Homens,John Steinbeck,Novela,O sonho compartilhado de dois trabalhadores rurais itinerantes na Grande Depressão.,1937-02-25
+A Sangue Frio,Truman Capote,Não-Ficção,O relato jornalístico detalhado sobre o brutal assassinato de uma família no Kansas.,1966-01-17
+Bonequinha de Luxo,Truman Capote,Novela,A vida excêntrica e charmosa da jovem Holly Golightly em Nova York.,1958-11-01
+O Apanhador no Campo de Centeio,J.D. Salinger,Romance,A rebeldia e a alienação do jovem Holden Caulfield vagando por Nova York.,1951-07-16
+Sapiens: Uma Breve História da Humanidade,Yuval Noah Harari,História,Uma análise abrangente da evolução humana e do impacto das revoluções na sociedade.,2011-09-04
+Homo Deus,Yuval Noah Harari,História,Uma reflexão sobre o futuro da humanidade e os desafios tecnológicos e biológicos.,2016-09-08
+Breves Respostas para Grandes Questões,Stephen Hawking,Divulgação Científica,"As últimas reflexões de um renomado físico sobre o universo, o tempo e a ciência.",2018-10-16
+Uma Breve História do Tempo,Stephen Hawking,Divulgação Científica,"A exploração dos mistérios do universo, buracos negros e a origem do cosmos.",1988-04-01
+O Gene Egoísta,Richard Dawkins,Biologia,A teoria de que os genes são as unidades centrais da evolução natural.,1976-01-01
+Cosmos,Carl Sagan,Divulgação Científica,A fascinante jornada pela vastidão do universo e a evolução da ciência e civilização.,1980-10-01
+Contato,Carl Sagan,Ficção Científica,O primeiro contato da humanidade com uma civilização alienígena inteligente.,1985-09-01
+Pálido Ponto Azul,Carl Sagan,Divulgação Científica,Uma visão do futuro humano no espaço inspirada na famosa fotografia da Terra.,1994-01-01
+De 0 a 1,Peter Thiel,Negócios,"Notas sobre startups, inovação e como construir o futuro nos negócios.",2014-09-16
+"Pai Rico, Pai Pobre",Robert Kiyosaki,Finanças Pessoais,Lições sobre educação financeira e a importância de fazer o dinheiro trabalhar para você.,1997-04-01
+A Riqueza das Nações,Adam Smith,Economia,A obra fundamental sobre economia clássica e o funcionamento do livre mercado.,1776-03-09
+O Príncipe,Niccolò Machiavelli,Ciência Política,Tratado político sobre a conquista e manutenção do poder por governantes.,1532-01-01
+A República,Platão,Filosofia,"Diálogos socráticos sobre justiça, a natureza do Estado e o mundo das ideias.",0375-01-01
+Assim Falou Zaratustra,Friedrich Nietzsche,Filosofia,"Obra filosófica sobre o Übermensch, a morte de Deus e a vontade de poder.",1883-01-01
+Meditações,Marco Aurélio,Filosofia,Reflexões íntimas de um imperador romano sobre o estoicismo e a virtude.,0180-01-01
+O Manifesto Comunista,"Karl Marx, Friedrich Engels",Política,O panfleto histórico que propõe a luta de classes e a derrocada do capitalismo.,1848-02-21
+O Segundo Sexo,Simone de Beauvoir,Ensaio,A análise pioneira sobre a opressão da mulher e a construção social do gênero.,1949-06-08
+Cartas a um Jovem Poeta,Rainer Maria Rilke,Epistolografia,"Conselhos profundos sobre arte, solidão e o ofício da escrita.",1929-01-01
+Breviário da Decadência,Emil Cioran,Filosofia,Aforismos céticos e pessimistas sobre a existência humana.,1949-01-01
+A Interpretação dos Sonhos,Sigmund Freud,Psicanálise,A fundação da psicanálise através da análise dos sonhos e do inconsciente.,1899-11-04
+O Homem e Seus Símbolos,Carl Jung,Psicologia,A introdução aos conceitos de inconsciente coletivo e arquétipos.,1964-01-01
+Em Busca de Sentido,Viktor E. Frankl,Psicologia,O relato comovente de um psiquiatra sobrevivente de campos de concentração e sua terapia do sentido.,1946-01-01
+Mindset: A Nova Psicologia do Sucesso,Carol S. Dweck,Psicologia,Como a atitude mental e a crença em nossas capacidades moldam nossas realizações.,2006-12-26
+Rápido e Devagar,Daniel Kahneman,Psicologia,As duas formas de pensamento que moldam nossas tomadas de decisão e julgamentos.,2011-10-25
+livros.txt
+Exibindo livros.txt.

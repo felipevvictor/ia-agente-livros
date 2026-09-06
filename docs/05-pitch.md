@@ -1,44 +1,31 @@
-# Pitch (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
 ## Roteiro Sugerido
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+### 1. O Problema
 
-[Sua descrição aqui]
+Agente com foco em recomendar livros de acordo com o perfil de clientes, onde muitos leitores que gostariam de receber novas recomendações podem não saber quais os melhores livros para o seu perfil
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+### 2. A Solução
+O agente analisa o perfil do usuário com base em seu histório e compara com os dados salvos e recomenda um livro com alto potencial que o usuário irá gostar
 
-[Sua descrição aqui]
+### 3. Demonstração
+Será anexado ao linkedin um video demonstrativo
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
-
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
+### 4. Diferencial e Impacto
+Agente com foco somente em leitora, onde a base de conhecimento pode ser mockada ou via API, limitando dados imaginativos ou falsos
 
 ---
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [X] Duração máxima de 3 minutos
+- [X] Problema claramente definido
+- [X] Solução demonstrada na prática
+- [X] Diferencial explicado
+- [X] Áudio e vídeo com boa qualidade
 
 ---
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]

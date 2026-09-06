@@ -1,0 +1,8 @@
+Nome,Idade,Genero_Leitor,Personalidade,Livros_Lidos,Generos_Preferidos,Interesses_Gerais
+"Carlos","23","Masculino","Reflexiva","A República | 1984 | Além do Bem e do Mal","Filosofia | Distopia","Política | Sociedade | História"
+"Mariana","28","Feminino","Analítica","Neuromancer | Eu, Robô | Fundação","Ficção Científica | Cyberpunk","Tecnologia | Automação | Programação"
+"Lucas","19","Masculino","Criativo","O Senhor dos Anéis | O Hobbit","Fantasia | Aventura","Escrita criativa | Roteiros curtos | Redes Sociais"
+"Ana","34","Feminino","Prática","O Poder do Hábito | Admirável Mundo Novo","Distopia | Produtividade","Design de produtos | Ergonomia | Negócios"
+"Roberto","45","Masculino","Curioso","Harry Potter e a Pedra Filosofal | The Little Prince","Fantasia | Ficção","Aprender inglês | Música | Teclados e Sintetizadores"
+"Juliana","21","Feminino","Romântica","Orgulho e Preconceito | O Morro dos Ventos Uivantes","Romance Clássico | Drama","Artes | Literatura de época | Moda"
+"Fernando","30","Masculino","Investigativo","O Código Da Vinci | Assassinato no Expresso do Oriente","Suspense | Mistério","Quebra-cabeças | Criminologia | Jogos de Tabuleiro"
